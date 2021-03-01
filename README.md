@@ -137,11 +137,7 @@ La señal senoidal amortiguada es un caso especial de este tipo de ondas y se pr
   
   5.1 Una vez el circuito construido iremos respondiendo los diferentes items que se indican 
 
-
-
-
-
-
+	
 
 
 6. Resultados
@@ -153,4 +149,14 @@ La señal senoidal amortiguada es un caso especial de este tipo de ondas y se pr
 
 
 8. Bibliografia
+
+- Electricidad del Hogar y Electrónica Facil: https://www.electricasas.com/diferencias-entre-corriente-continua-y-corriente-alterna/
+
+- CORRIENTE DIRECTA Y CORRIENTE ALTERNA: https://www.angelfire.com/empire/seigfrid/Corrientedirectayalterna.html
+
+- GreenFacts: http://www.greenfacts.org/es/glosario/abc/corriente-alterna.htm
+
+- Electronica Facil, El osciloscopio, Recuperado de: https://www.electronicafacil.net/tutoriales/Uso-del-osciloscopio.html
+
+
   
