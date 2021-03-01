@@ -10,7 +10,9 @@ Características de la Onda Senoidal
   1.2 Objetivos Especificos 
   
   •	Comprender y aprender a usar el software Proteus 
+  
   •	Reconocer las diferentes señales que nos proporciona la onda senoidal y hacer un muestreo con los valores obtenidos
+  
   •	Construir un circuito utilizar un multímetro y utilizar el osciloscopio para realizar mediciones
 
 
@@ -31,10 +33,14 @@ También responden a la misma forma, todas las corrientes destinadas a generar l
 
 Para su representacion decimos que esta Ley de Variación en un par de ejes cartesianos marcados en amplitud y tiempo, se producirán gráficas con diferentes formas geométricas que identifiquen la corriente. Las formas de ondas más comunes son:
 
-•	La senoidal
-•	La cuadrada
-•	La triangular
-•	La diente de sierra
+	•	La senoidal
+
+	•	La cuadrada
+
+	•	La triangular
+
+	•	La diente de sierra
+
 
 Tambien podemos hablar de la continuidad de giro: Continuidad del giro: A partir de ese momento, con la continuación del giro, la altura comenzará nuevamente a aumentar, pero ahora hacia abajo de la línea horizontal, con los mismos valores absolutos que los anteriores, por lo que se los toma con el signo negativo. Al llegar a la posición horizontal, o sea a un ángulo de 360º, se termina el ciclo. A partir de ese momento, comenzará uno nuevo, que se superpondrá con el anterior con todos los mismos valores que ya se produjeron. Si ahora graficamos todos los valores de la altura del punto extremo del radio mientras va girando, o sea el valor del seno del ángulo que se va formando, a partir de una recta horizontal y respetando el signo, se formará una figura ondulada cuando se unan todos los extremos de las mencionadas alturas; figura que recibe el nombre de curva sinusoidal o senoidal, por responder a la función del seno.
 
