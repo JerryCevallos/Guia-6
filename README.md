@@ -44,7 +44,7 @@ Para su representacion decimos que esta Ley de Variación en un par de ejes cart
 
 Tambien podemos hablar de la continuidad de giro: Continuidad del giro: A partir de ese momento, con la continuación del giro, la altura comenzará nuevamente a aumentar, pero ahora hacia abajo de la línea horizontal, con los mismos valores absolutos que los anteriores, por lo que se los toma con el signo negativo. Al llegar a la posición horizontal, o sea a un ángulo de 360º, se termina el ciclo. A partir de ese momento, comenzará uno nuevo, que se superpondrá con el anterior con todos los mismos valores que ya se produjeron. Si ahora graficamos todos los valores de la altura del punto extremo del radio mientras va girando, o sea el valor del seno del ángulo que se va formando, a partir de una recta horizontal y respetando el signo, se formará una figura ondulada cuando se unan todos los extremos de las mencionadas alturas; figura que recibe el nombre de curva sinusoidal o senoidal, por responder a la función del seno.
 
-  3.1 Uso de oscilocopio para medir ondas senosoidales
+ 	3.1 Uso de oscilocopio para medir ondas senosoidales
 
   Primero debemos entender ¿Qué es un osciloscopio?
 
@@ -64,7 +64,7 @@ El osciloscopio es basicamente un dispositivo de visualización gráfica que mue
   
   •	Determinar que parte de la señal es ruido y como varia este en el tiempo.
 
-¿Como funciona un osciloscopio?
+	3.2 ¿Como funciona un osciloscopio?
 
 Para entender el funcionamiento de los controles que posee un osciloscopio es necesario deternerse un poco en los procesos internos llevados a cabo por este aparato. Empezaremos por el tipo analógico ya que es el más sencillo.
 
@@ -78,7 +78,7 @@ A primera vista un osciloscopio se parece a una pequeña televisión portatil, s
 	** Conectores.
 	
 	
-Tipos de Osciloscopios
+	3.3 Tipos de Osciloscopios
 
   Osciloscopios analógicos
   
@@ -92,36 +92,35 @@ Tipos de Osciloscopios
   
   ![digital](https://user-images.githubusercontent.com/75337022/109572173-c9053700-7aba-11eb-854a-e3bba7cdb89d.png)
   
-  Metodos para medir
+	3.4 Metodos para medir
    
-  3.1 Métodos de muestreo
+  Métodos de muestreo
   Se trata de explicar como se las arreglan los osciloscopios digitales para reunir los puntos de muestreo. Para señales de lenta variación, los osciloscopios digitales 	   pueden perfectamente reunir más puntos de los necesarios para reconstruir posteriormente la señal en la pantalla. No obstante, para señales rápidas (como de rápidas dependerá   de la máxima velocidad de muestreo de nuestro aparato) el osciloscopio no puede recoger muestras suficientes y debe recurrir a una de estas dos técnicas:
 
    - Interpolación , es decir, estimar un punto intermedio de la señal basandose en el punto anterior y posterior.
    - Muestreo en tiempo equivalente . Si la señal es repetitiva es posible muestrear durante unos cuantos ciclos en diferentes partes de la señal para después reconstruir la          señal completa.
 
-Muestreo en tiempo real con Interpolación
+  3.4.1 Muestreo en tiempo real con Interpolación
 
-El método standard de muestreo en los osciloscopios digitales es el muestreo en tiempo real: el osciloscopio reune los suficientes puntos como para recontruir la señal. Para señales no repetitivas ó la parte transitoria de una señal es el único método válido de muestreo. Los osciloscopios utilizan la interpolación para poder visualizar señales que son más rápidas que su velocidad de muestreo. Existen basicamente dos tipos de interpolación:
+  El método standard de muestreo en los osciloscopios digitales es el muestreo en tiempo real: el osciloscopio reune los suficientes puntos como para recontruir la señal. Para     señales no repetitivas ó la parte transitoria de una señal es el único método válido de muestreo. Los osciloscopios utilizan la interpolación para poder visualizar señales que   son más rápidas que su velocidad de muestreo. Existen basicamente dos tipos de interpolación:
 
-Lineal : Simplemente conecta los puntos muestreados con lineas. Senoidal : Conecta los puntos muestreados con curvas según un proceso matemático, de esta forma los puntos intermedios se calculan para rellenar los espacios entre puntos reales de muestreo. Usando este proceso es posible visualizar señales con gran precisión disponiendo de relativamente pocos puntos de muestreo.
+  Lineal : Simplemente conecta los puntos muestreados con lineas. Senoidal : Conecta los puntos muestreados con curvas según un proceso matemático, de esta forma los puntos       intermedios se calculan para rellenar los espacios entre puntos reales de muestreo. Usando este proceso es posible visualizar señales con gran precisión disponiendo de           relativamente pocos puntos de muestreo.
 
 ![Interpolacion](https://user-images.githubusercontent.com/75337022/109572197-d02c4500-7aba-11eb-9cc1-2e92a9e0c933.png)
 
-Muestreo en tiempo equivalente
+  3.4.2 Muestreo en tiempo equivalente
 
-Algunos osciloscopios digitales utilizan este tipo de muestreo. Se trata de reconstruir una señal repetitiva capturando una pequeña parte de la señal en cada ciclo.Existen dos tipos básicos: Muestreo secuencial- Los puntos aparecen de izquierda a derecha en secuencia para conformar la señal. Muestreo aleatorio- Los puntos aparecen aleatoriamente para formar la señal
+  Algunos osciloscopios digitales utilizan este tipo de muestreo. Se trata de reconstruir una señal repetitiva capturando una pequeña parte de la señal en cada ciclo.Existen dos   tipos básicos: Muestreo secuencial- Los puntos aparecen de izquierda a derecha en secuencia para conformar la señal. Muestreo aleatorio- Los puntos aparecen aleatoriamente       para formar la señal
 
 ![Equivalente](https://user-images.githubusercontent.com/75337022/109572217-d6222600-7aba-11eb-90e9-2a8b75e0d0cb.png)
 
-Ondas senoidales en el osciloscopio 
+	3.5 Ondas senoidales en el osciloscopio 
 
 Son las ondas fundamentales y eso por varias razones: Poseen unas propiedades matemáticas muy interesantes (por ejemplo con combinaciones de señales senoidales de diferente amplitud y frecuencia se puede reconstruir cualquier forma de onda), la señal que se obtiene de las tomas de corriente de cualquier casa tienen esta forma, las señales de test producidas por los circuitos osciladores de un generador de señal son también senoidales, la mayoria de las fuentes de potencia en AC (corriente alterna) producen señales senoidales.
 
 ![Ondas](https://user-images.githubusercontent.com/75337022/109572230-dc180700-7aba-11eb-9c22-4c5e8ae371f7.png)
 
 La señal senoidal amortiguada es un caso especial de este tipo de ondas y se producen en fenomenos de oscilación, pero que no se mantienen en el tiempo.
-
 
 
 4. Material y Equipo Requerido
