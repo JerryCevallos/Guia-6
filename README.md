@@ -127,12 +127,22 @@ La señal senoidal amortiguada es un caso especial de este tipo de ondas y se pr
 
 4. Material y Equipo Requerido
 
+![Materiales](https://user-images.githubusercontent.com/75337022/109574456-f0a9ce80-7abd-11eb-9bc9-4bc1d50f7b27.png)
+
 5. Procedmiento 
 
   Implemente el circuito que se presenta en la figura
   
+![Diagrama](https://user-images.githubusercontent.com/75337022/109574470-f8697300-7abd-11eb-8881-0e51fa9e85cc.png)
   
   5.1 Una vez el circuito construido iremos respondiendo los diferentes items que se indican 
+
+
+
+
+
+
+
 
 6. Resultados
 
