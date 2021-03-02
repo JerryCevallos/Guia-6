@@ -175,10 +175,9 @@ Ahora utilizamos el osciloscopio para realizar las respectivas mediciones
 
 ![WhatsApp Image 2021-03-01 at 21 27 55](https://user-images.githubusercontent.com/75337022/109599922-2664ac80-7aea-11eb-8655-28f4120d1914.jpeg)
 
-6:Resultados
+6. Analisis y Resultados
 
 ![Procedimiento y resolucion_page-0001](https://user-images.githubusercontent.com/75337022/109599731-af2f1880-7ae9-11eb-8aa0-bde61387d579.jpg)
-
 
 ![Procedimiento y resolucion_page-0002](https://user-images.githubusercontent.com/75337022/109599746-b524f980-7ae9-11eb-9207-42dc8dea6dd5.jpg)	
 
