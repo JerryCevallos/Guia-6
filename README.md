@@ -184,6 +184,8 @@ Ahora utilizamos el osciloscopio para realizar las respectivas mediciones
 
 ![Procedimiento y resolucion_page-0002](https://user-images.githubusercontent.com/75337022/109599746-b524f980-7ae9-11eb-9207-42dc8dea6dd5.jpg)	
 
+![Error](https://user-images.githubusercontent.com/75337022/109705186-7b91d400-7b65-11eb-95b2-0e9dda9dad89.png)
+
 
 7. Conclusiones y Recomendaciones
 
