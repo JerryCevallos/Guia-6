@@ -184,11 +184,18 @@ Ahora utilizamos el osciloscopio para realizar las respectivas mediciones
 
 7. Conclusiones y Recomendaciones
 
--
--
--
--
--
+• El haz electrónico puede compararse con la parte móvil de un instrumento electromecánico, la desviación de dicho haz, depende de la tensión aplicada a los electrodos desviación.
+
+• La altura de las señales observadas en la pantalla, se gobierna manipulando los controles del bloque vertical.
+
+• El ancho de las señales observadas en la pantalla, se controlan manipulando los controles del bloque horizontal.
+
+• La estabilidad de la imagen en la pantalla se logra manipulando los controles del bloque de sincronismo.
+
+• A pesar de sus múltiples usos, el osciloscopio sirve para dar dos mediciones fundamentales tensión y tiempo.
+
+• El procedimiento de cálculo del valor de la indicación del osciloscopio, es similar al de todos los medios de medición.
+
 
 8. Bibliografia
 
