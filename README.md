@@ -177,7 +177,7 @@ Ahora utilizamos el osciloscopio para realizar las respectivas mediciones
 
 6. Analisis y Resultados
 
-![Procedimiento y resolucion_page-0001](https://user-images.githubusercontent.com/75337022/109599731-af2f1880-7ae9-11eb-8aa0-bde61387d579.jpg)
+![Preguntas_page-0001](https://user-images.githubusercontent.com/75337022/109685037-db30b500-7b4e-11eb-8f34-fd366ef99d07.jpg)
 
 ![Procedimiento y resolucion_page-0002](https://user-images.githubusercontent.com/75337022/109599746-b524f980-7ae9-11eb-9207-42dc8dea6dd5.jpg)	
 
