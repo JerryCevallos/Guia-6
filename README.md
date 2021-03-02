@@ -135,18 +135,61 @@ La señal senoidal amortiguada es un caso especial de este tipo de ondas y se pr
   
 ![Diagrama](https://user-images.githubusercontent.com/75337022/109574470-f8697300-7abd-11eb-8881-0e51fa9e85cc.png)
   
-  5.1 Una vez el circuito construido iremos respondiendo los diferentes items que se indican 
+  5.1 Una vez el circuito construido iremos respondiendo los diferentes items que se indican
 
+	5.1.1 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
+
+	5.1.2 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
+
+	5.1.3 Responda las siguientes preguntas: ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?___________
 	
+	¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
+	
+	¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?__________
+	
+	¿En qué valor está posicionada la perilla TIME/DIV? ___________
+	
+	5.1.4 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+	
+	Amplitud de voltaje: ____________(V) 
+	
+	Periodo: ____________(s)
+	
+	5.1.5 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+	
+	f: _____________(Hz)
+	
+	ω: ____________(rad/s)
+	
+	5.1.6 Con el multímetro digital mida el voltaje de salida en RL: _______________
+
+	5.1.7 Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.¿Coinciden? _______ ¿Por qué?
+
+Elaboramos el circuitos en el software 
 
 
-6. Resultados
+![Circuito elaborado en Proteus](https://user-images.githubusercontent.com/75337022/109571522-cfdf7a00-7ab9-11eb-8e1e-4c0e1d047e38.jpeg)
 
+
+Ahora utilizamos el osciloscopio para realizar las respectivas mediciones 
+
+![WhatsApp Image 2021-03-01 at 21 27 55](https://user-images.githubusercontent.com/75337022/109599922-2664ac80-7aea-11eb-8655-28f4120d1914.jpeg)
+
+6:Resultados
+
+![Procedimiento y resolucion_page-0001](https://user-images.githubusercontent.com/75337022/109599731-af2f1880-7ae9-11eb-8aa0-bde61387d579.jpg)
+
+
+![Procedimiento y resolucion_page-0002](https://user-images.githubusercontent.com/75337022/109599746-b524f980-7ae9-11eb-9207-42dc8dea6dd5.jpg)	
 
 
 7. Conclusiones y Recomendaciones
 
-
+-
+-
+-
+-
+-
 
 8. Bibliografia
 
